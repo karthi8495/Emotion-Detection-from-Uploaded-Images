@@ -18,7 +18,7 @@ Multiple pre-trained CNN models, including DenseNet, ResNet, VGG, MobileNet, Eff
 # Ethical Considerations:
 The project includes an analysis of the ethical implications of emotion detection technology, discussing privacy concerns, bias in data, and the ethical use of such technologies in sensitive areas like healthcare and law enforcement.
 
-# Project Scope
+# Scope Of The Project
 # 1. User Interface Development
 Developed an intuitive and responsive user interface using Streamlit, allowing users to upload images for emotion classification.
 The application provides real-time feedback by displaying uploaded images alongside the detected faces and predicted emotions.
@@ -44,7 +44,7 @@ Ethical analysis focusing on privacy concerns, data bias, and mitigation strateg
 # Programming Language: 
 Python
 # Frameworks and Libraries: 
-Streamlit, OpenCV, TensorFlow/Keras, Mediapipe, NumPy, PIL
+Streamlit, OpenCV, Torchvision/Keras, Mediapipe, NumPy, PIL
 # Pre-trained Models: 
 DenseNet, ResNet, VGG, MobileNet, EfficientNet 
 # Model :
@@ -63,8 +63,8 @@ Well-structured and documented Python code that includes the Streamlit interface
 # Trained Models:
 Pre-trained CNN models for emotion classification, stored in .keras format.
 
-# Project Report:
-A detailed report covering system design, implementation, model evaluation, and future directions.
-
 # Ethical Analysis:
 An in-depth exploration of the ethical implications of emotion detection technology, including privacy concerns and bias mitigation strategies.
+
+# Project Report:
+A detailed report covering system design, implementation, model evaluation, and future directions.
